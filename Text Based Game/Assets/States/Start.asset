@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f0e3f7ed36233b4e945acd69357652c, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  gameText: You are home, but you need to make a delivery. Press the right arrow
+    key to set out or the left arrow key to open the contents.
+  otherStates:
+  - {fileID: 11400000, guid: b13b9b3c66a979f40a0bc0137f263714, type: 2}
+  - {fileID: 11400000, guid: dd089a5f4aca7fd42a930b8fa455bbd2, type: 2}
