@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f0e3f7ed36233b4e945acd69357652c, type: 3}
+  m_Name: 9 Tree
+  m_EditorClassIdentifier: 
+  gameText: The tree is very comfy. You instantly fall asleep. You wake up with your
+    eyes closed, Right to open them, Left to keep them closed.
+  otherStates:
+  - {fileID: 11400000, guid: 23ab1bf2396575d49830e3c21c5c7d2e, type: 2}
+  - {fileID: 11400000, guid: fedeaa03fe69f5a47bd47fc51ad6b757, type: 2}

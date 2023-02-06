@@ -10,7 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7f0e3f7ed36233b4e945acd69357652c, type: 3}
-  m_Name: Death
+  m_Name: 4 Given
   m_EditorClassIdentifier: 
-  gameText: ship
-  otherStates: []
+  gameText: You give the box to them and they thank you enthusiastically. Right to
+    ask them what's inside or Left to leave.
+  otherStates:
+  - {fileID: 11400000, guid: 6d976b76e3e505e4a872177938d15439, type: 2}
+  - {fileID: 11400000, guid: e4c9252e21b95ab45b0cdb3a5ad0a2c7, type: 2}

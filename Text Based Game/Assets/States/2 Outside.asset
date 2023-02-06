@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f0e3f7ed36233b4e945acd69357652c, type: 3}
+  m_Name: 2 Outside
+  m_EditorClassIdentifier: 
+  gameText: Outside, you walk towards your destination. You walk by a tree, press
+    Right to take a rest under it or Left to continue walking.
+  otherStates:
+  - {fileID: 11400000, guid: cffb1c9597f55c1419d9a744289e3113, type: 2}
+  - {fileID: 11400000, guid: a09778b829ccdf1408693fe1dff78605, type: 2}

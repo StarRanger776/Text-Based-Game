@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f0e3f7ed36233b4e945acd69357652c, type: 3}
+  m_Name: 11 Open
+  m_EditorClassIdentifier: 
+  gameText: Eyes open, you realize you're not in the same spot. The world you're
+    in isn't your's. You're stuck here. (Press Left to Restart)
+  otherStates:
+  - {fileID: 11400000, guid: ad97c4e576699424a9c71cfa731090c0, type: 2}
+  - {fileID: 11400000, guid: ad97c4e576699424a9c71cfa731090c0, type: 2}

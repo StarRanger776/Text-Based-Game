@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7f0e3f7ed36233b4e945acd69357652c, type: 3}
-  m_Name: Start
+  m_Name: 5 Leave
   m_EditorClassIdentifier: 
-  gameText: You are home, but you need to make a delivery. Press the right arrow
-    key to set out or the left arrow key to open the contents.
+  gameText: You head back home. You were a bit curious about what was in the box,
+    but maybe it's for the best you didn't know. (Press Left to Restart)
   otherStates:
-  - {fileID: 11400000, guid: b13b9b3c66a979f40a0bc0137f263714, type: 2}
-  - {fileID: 11400000, guid: dd089a5f4aca7fd42a930b8fa455bbd2, type: 2}
+  - {fileID: 11400000, guid: ad97c4e576699424a9c71cfa731090c0, type: 2}
+  - {fileID: 11400000, guid: ad97c4e576699424a9c71cfa731090c0, type: 2}

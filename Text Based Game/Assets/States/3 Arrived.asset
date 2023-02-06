@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f0e3f7ed36233b4e945acd69357652c, type: 3}
+  m_Name: 3 Arrived
+  m_EditorClassIdentifier: 
+  gameText: You arrive, your friend greets you and they extend their hands for the
+    package. Right to open it, Left to give them the box.
+  otherStates:
+  - {fileID: 11400000, guid: caf1341558a2fd64c902148d7c72291f, type: 2}
+  - {fileID: 11400000, guid: 931b769565028a5468fd3352e497059f, type: 2}
